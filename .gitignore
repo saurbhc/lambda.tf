@@ -21,3 +21,6 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
+
+# zip files created while uploading to s3
+*.zip
